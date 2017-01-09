@@ -1,6 +1,6 @@
 Pi-FM-RDS
 =========
-Ceci est un clone exact du projet PiFmRds mené par Christophe Jacquet (https://github.com/ChristopheJacquet/PiFmRds).
+Ceci est un clone exact du projet PiFmRds mené par Christophe Jacquet (https://github.com/ChristopheJacquet/PiFmRds).</br>
 Ce clone permet une sauvegarde du projet à l'état du lundi 9 janvier 2017 à 21h30.
 
 ## FM-RDS transmitter using the Raspberry Pi
